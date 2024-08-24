@@ -24,10 +24,10 @@
     "claude",
     "ai"
   ],
-  "author": "Makerdock",
+  "author": "Utkarsh Bhimte",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/makerdock/nirman.git"
+    "url": "https://github.com/utkarshbhimte/nirman.git"
   }
 }
