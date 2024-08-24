@@ -1,0 +1,33 @@
+{
+  "name": "nirman",
+  "version": "1.0.0",
+  "description": "Claude-based project structure creation tool by MakerDock",
+  "main": "index.js",
+  "bin": {
+    "nirman": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^4.0.0",
+    "commander": "^12.1.0",
+    "copy-paste": "^1.5.3",
+    "enquirer": "^2.3.6",
+    "readline": "^1.3.0",
+    "tmp": "^0.2.1"
+  },
+  "keywords": [
+    "project",
+    "structure",
+    "scaffolding",
+    "cli",
+    "boilerplate",
+    "claude",
+    "ai"
+  ],
+  "author": "Makerdock",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makerdock/nirman.git"
+  }
+}
