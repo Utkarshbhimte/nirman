@@ -14,7 +14,7 @@ Nirman is an intelligent project structure creation tool that leverages Claude t
 To install Nirman globally, run:
 
 ```bash
-npm install -g nirman
+npm install -g @makerdock/nirman
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-  "name": "nirman",
+  "name": "@makerdock/nirman",
   "version": "1.0.0",
   "description": "Claude-based project structure creation tool by MakerDock",
   "main": "index.js",
@@ -24,10 +24,10 @@
     "claude",
     "ai"
   ],
-  "author": "Utkarsh Bhimte",
+  "author": "Makerdock",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utkarshbhimte/nirman.git"
+    "url": "https://github.com/makerdock/nirman.git"
   }
 }
