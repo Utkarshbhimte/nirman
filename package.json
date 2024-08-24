@@ -1,6 +1,6 @@
 {
   "name": "@makerdock/nirman",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Claude-based project structure creation tool by MakerDock",
   "main": "index.js",
   "bin": {

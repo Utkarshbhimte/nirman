@@ -70,7 +70,7 @@ For more information, visit: https://github.com/your-repo/nirman
 program
     .name('nirman')
     .description('CLI to create project structure based on user input and AI assistance')
-    .version('1.0.0');
+    .version('1.0.3');
 
 program
     .command('create <project-name>')
